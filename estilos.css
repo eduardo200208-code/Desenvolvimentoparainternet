@@ -1,0 +1,177 @@
+body {
+    background-color: black;
+}
+
+#fotocopa {
+    width: 100px;
+    position: relative;
+    left: 46.5%;
+}
+
+.fundo-especial-Brasil {
+    border: 4px solid green;
+    width: 90%;
+    height: 15%;
+    table-layout: fixed;
+}
+
+#fundo-especial-Brasil {
+
+    background-color: grey;
+}
+
+.bordajogo {
+    border: 4px solid gray;
+    width: 90%;
+    height: 15%;
+    table-layout: fixed;
+}
+
+
+#fundoclaro {
+    color: black;
+    background-color: white;
+
+}
+
+.datas {
+    font-size: 35px;
+    color: white;
+
+}
+
+.time1-ate4letra {
+    height: 60px;
+    font-size: 35px;
+    position: relative;
+    left: 28.6%;
+}
+
+.time1-5letras {
+    height: 60px;
+    font-size: 35px;
+    position: relative;
+    left: 28%;
+}
+
+.time1-com6letras {
+    height: 60px;
+    font-size: 35px;
+    position: relative;
+    left: 27%;
+}
+
+.time1-com7letras {
+    height: 60px;
+    font-size: 35px;
+    position: relative;
+    left: 26%;
+}
+
+.time1-com8letras {
+    height: 60px;
+    font-size: 35px;
+    position: relative;
+    left: 25.1%;
+}
+
+.time1-com9letras {
+    height: 60px;
+    font-size: 35px;
+    position: relative;
+    left: 25.4%;
+}
+
+.time1-com10letras {
+    height: 60px;
+    font-size: 35px;
+    position: relative;
+    left: 24.3%;
+}
+
+.time1-com11letras {
+    height: 60px;
+    font-size: 35px;
+    position: relative;
+    left: 23.3%;
+
+}
+
+.time1-13letras {
+    height: 60px;
+    font-size: 35px;
+    position: relative;
+    left: 23.3%;
+
+}
+
+.bandeira1 {
+    vertical-align: top;
+    position: relative;
+    left: 45%;
+    width: 18%;
+}
+
+.horariojogo {
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    left: -8%;
+}
+
+
+.bandeira2 {
+    display: block;
+    position: relative;
+    top: 5%;
+    right: 85%;
+    width: 19%;
+}
+
+.time2 {
+    width: 60PX;
+    font-size: 35px;
+    position: relative;
+    right: 36.8%;
+}
+
+.time2com-espaço {
+    width: 60PX;
+    font-size: 35px;
+    position: relative;
+    right: 35.3%;
+}
+
+.seleçao-com-dois-nomes {
+    white-space: nowrap;
+}
+
+* {
+    padding: 20px;
+}
+
+.Grupo {
+    font-size: 25px;
+    text-align: center;
+    position: relative;
+    left: 25%;
+}
+
+.Jogos {
+    font-size: 25px;
+    text-align: center;
+    position: relative;
+    left: 14%;
+}
+
+.Local {
+    font-size: 25px;
+    text-align: center;
+    position: relative;
+    left: 9%;
+}
+
+.Escrita-final {
+    font-size: 40px;
+    color: white;
+}
